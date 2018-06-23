@@ -1,66 +1,82 @@
 {
 	"rooms": [{
 			"url": "Image-012.jpg",
+			"selected": false,
 			"id": "Image-012"
 		},
 		{
 			"url": "Image-000.jpg",
+			"selected": false,
 			"id": "Image-000"
 		},
 		{
 			"url": "Image-025.jpg",
+			"selected": false,
 			"id": "Image-025"
 		},
 		{
 			"url": "Image-038.jpg",
+			"selected": false,
 			"id": "Image-038"
 		},
 		{
 			"url": "Image-051.jpg",
+			"selected": false,
 			"id": "Image-051"
 		},
 		{
 			"url": "Image-064.jpg",
+			"selected": false,
 			"id": "Image-064"
 		},
 		{
 			"url": "Image-077.jpg",
+			"selected": false,
 			"id": "Image-077"
 		},
 		{
 			"url": "Image-090.jpg",
+			"selected": false,
 			"id": "Image-090"
 		},
 		{
 			"url": "Image-106.jpg",
+			"selected": false,
 			"id": "Image-106"
 		},
 		{
 			"url": "Image-119.jpg",
+			"selected": false,
 			"id": "Image-119"
 		},
 		{
 			"url": "Image-132.jpg",
+			"selected": false,
 			"id": "Image-132"
 		},
 		{
 			"url": "Image-145.jpg",
+			"selected": false,
 			"id": "Image-145"
 		},
 		{
 			"url": "image-160.jpg",
+			"selected": false,
 			"id": "Image-160"
 		},
 		{
 			"url": "image-173.jpg",
+			"selected": false,
 			"id": "Image-173"
 		},
 		{
 			"url": "image-187.jpg",
+			"selected": false,
 			"id": "Image-187"
 		},
 		{
 			"url": "image-201.jpg",
+			"selected": false,
 			"id": "Image-201"
 		}
 	]
