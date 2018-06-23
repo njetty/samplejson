@@ -1,66 +1,66 @@
 {
 	"rooms": [{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-012.jpg",
+			"url": "Image-012.jpg",
 			"id": "Image-012"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-000.jpg",
+			"url": "Image-000.jpg",
 			"id": "Image-000"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-025.jpg",
+			"url": "Image-025.jpg",
 			"id": "Image-025"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-038.jpg",
+			"url": "Image-038.jpg",
 			"id": "Image-038"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-051.jpg",
+			"url": "Image-051.jpg",
 			"id": "Image-051"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-064.jpg",
+			"url": "Image-064.jpg",
 			"id": "Image-064"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-077.jpg",
+			"url": "Image-077.jpg",
 			"id": "Image-077"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-090.jpg",
+			"url": "Image-090.jpg",
 			"id": "Image-090"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-106.jpg",
+			"url": "Image-106.jpg",
 			"id": "Image-106"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-119.jpg",
+			"url": "Image-119.jpg",
 			"id": "Image-119"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-132.jpg",
+			"url": "Image-132.jpg",
 			"id": "Image-132"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/Image-145.jpg",
+			"url": "Image-145.jpg",
 			"id": "Image-145"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/image-160.jpg",
+			"url": "image-160.jpg",
 			"id": "Image-160"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/image-173.jpg",
+			"url": "image-173.jpg",
 			"id": "Image-173"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/image-187.jpg",
+			"url": "image-187.jpg",
 			"id": "Image-187"
 		},
 		{
-			"url": "https://s3-us-west-2.amazonaws.com/modsy/images/image-201.jpg",
+			"url": "image-201.jpg",
 			"id": "Image-201"
 		}
 	]
