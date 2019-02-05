@@ -1,50 +1,14 @@
 {
-"response" :[
-    {
-        "designerCollectionUId": "C1",
-        "designerId": "test",
-        "collectionName": "MyCollection1",
-        "collection": [
-            {
-                "asinId": "B00FLYWNYQ",
-                "physicalId": "71TzlHSU7UL",
-                "browseNode": "AREA_RUG",
-                "isFocalPoint": false,
-                "price": 10.47
-            },
-            {
-                "asinId": "B00FLYWNYQ",
-                "physicalId": "71TzlHSU7UL",
-                "browseNode": "AREA_RUG",
-                "isFocalPoint": false,
-                "price": 10.47
-            }
-        ],
-        "creationDate": 1549058007542,
-        "updateDate": 1549058007542
-    },
-    {
-        "designerCollectionUId": "C2",
-        "designerId": "test",
-        "collectionName": "MyCollection2",
-        "collection": [
-            {
-                "asinId": "B00FLYWNYQ",
-                "physicalId": "71TzlHSU7UL",
-                "browseNode": "AREA_RUG",
-                "isFocalPoint": false,
-                "price": 10.47
-            },
-            {
-                "asinId": "B00FLYWNYQ",
-                "physicalId": "71TzlHSU7UL",
-                "browseNode": "AREA_RUG",
-                "isFocalPoint": false,
-                "price": 10.47
-            }
-        ],
-        "creationDate": 1549058061724,
-        "updateDate": 1549058061724
-    }
-]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
